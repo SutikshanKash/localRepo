@@ -5,11 +5,6 @@ import ConfirmPage from "/Users/sutikshankashyap/CypressAutomation/cypress/integ
 const homepage = new HomePage()
         const productsPage = new ProductsPage()     //creating object for the ProductPage Class
         const confirmPage = new ConfirmPage()  
-var productName
-var name
-var dob
-var gender
-
 
 Given('Open Ecommerce Page',()=>
 {
