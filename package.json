@@ -9,7 +9,7 @@
     "recordDashboardTest": "npx cypress run --record --key b5848968-a73c-4fcc-ab43-1fa2e02b9bbd",
     "testFramework": "npx cypress run --spec \"cypress/integration/examples/TestFramework.js\""
   },
-  "author": "Sutikshan Kashyap",
+  "author": "Sutikshan Kashyap 02/02/1995",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.8.1",
